@@ -14,7 +14,7 @@ sub init {
     $bot->hook(
         {
             to_me => 1,
-            text  => qr/\btiny\s+(?<url>\S+)/i,
+            text  => qr/^tiny\s+(?<url>\S+)/i,
         },
         sub {
             my ( $bot, $in, $m ) = @_;
