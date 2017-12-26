@@ -1,7 +1,7 @@
 package Bot::IRC::X::WwwShorten;
 # ABSTRACT: Bot::IRC plugin for automatic URL shortening
 
-use 5.012;
+use 5.014;
 use strict;
 use warnings;
 
