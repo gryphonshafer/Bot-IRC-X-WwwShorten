@@ -33,8 +33,8 @@ __END__
 =begin :badges
 
 =for markdown
-[![Build Status](https://travis-ci.org/gryphonshafer/Bot-IRC-X-WwwShorten.svg)](https://travis-ci.org/gryphonshafer/Bot-IRC-X-WwwShorten)
-[![Coverage Status](https://coveralls.io/repos/gryphonshafer/Bot-IRC-X-WwwShorten/badge.png)](https://coveralls.io/r/gryphonshafer/Bot-IRC-X-WwwShorten)
+[![build](https://github.com/gryphonshafer/Bot-IRC-X-WwwShorten/workflows/build/badge.svg)](https://github.com/gryphonshafer/Bot-IRC-X-WwwShorten/actions?query=workflow%3Abuild)
+[![codecov](https://codecov.io/gh/gryphonshafer/Bot-IRC-X-WwwShorten/graph/badge.svg)](https://codecov.io/gh/gryphonshafer/Bot-IRC-X-WwwShorten)
 
 =end :badges
 
@@ -63,8 +63,8 @@ You can look for additional information at:
 * L<Bot::IRC>
 * L<GitHub|https://github.com/gryphonshafer/Bot-IRC-X-WwwShorten>
 * L<MetaCPAN|https://metacpan.org/pod/Bot::IRC::X::WwwShorten>
-* L<Travis CI|https://travis-ci.org/gryphonshafer/Bot-IRC-X-WwwShorten>
-* L<Coveralls|https://coveralls.io/r/gryphonshafer/Bot-IRC-X-WwwShorten>
+* L<GitHub Actions|https://github.com/gryphonshafer/Bot-IRC-X-WwwShorten/actions>
+* L<Codecov|https://codecov.io/gh/gryphonshafer/Bot-IRC-X-WwwShorten>
 * L<CPANTS|http://cpants.cpanauthors.org/dist/Bot-IRC-X-WwwShorten>
 * L<CPAN Testers|http://www.cpantesters.org/distro/T/Bot-IRC-X-WwwShorten.html>
 
