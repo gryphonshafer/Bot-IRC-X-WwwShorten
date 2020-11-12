@@ -6,8 +6,8 @@ Bot::IRC::X::WwwShorten - Bot::IRC plugin for automatic URL shortening
 
 version 1.02
 
-[![Build Status](https://travis-ci.org/gryphonshafer/Bot-IRC-X-WwwShorten.svg)](https://travis-ci.org/gryphonshafer/Bot-IRC-X-WwwShorten)
-[![Coverage Status](https://coveralls.io/repos/gryphonshafer/Bot-IRC-X-WwwShorten/badge.png)](https://coveralls.io/r/gryphonshafer/Bot-IRC-X-WwwShorten)
+[![build](https://github.com/gryphonshafer/Bot-IRC-X-WwwShorten/workflows/build/badge.svg)](https://github.com/gryphonshafer/Bot-IRC-X-WwwShorten/actions?query=workflow%3Abuild)
+[![codecov](https://codecov.io/gh/gryphonshafer/Bot-IRC-X-WwwShorten/graph/badge.svg)](https://codecov.io/gh/gryphonshafer/Bot-IRC-X-WwwShorten)
 
 # SYNOPSIS
 
@@ -20,8 +20,8 @@ version 1.02
 
 # DESCRIPTION
 
-This [Bot::IRC](https://metacpan.org/pod/Bot::IRC) plugin for automatic URL shortening. It uses
-[TinyURL](http://tinyurl.com) for shortening through [WWW::Shorten](https://metacpan.org/pod/WWW::Shorten).
+This [Bot::IRC](https://metacpan.org/pod/Bot%3A%3AIRC) plugin for automatic URL shortening. It uses
+[TinyURL](http://tinyurl.com) for shortening through [WWW::Shorten](https://metacpan.org/pod/WWW%3A%3AShorten).
 
     <user> bot tiny http://perl.org
     <bot> user: http://tinyurl.com/9om78
@@ -30,13 +30,11 @@ This [Bot::IRC](https://metacpan.org/pod/Bot::IRC) plugin for automatic URL shor
 
 You can look for additional information at:
 
-- [Bot::IRC](https://metacpan.org/pod/Bot::IRC)
+- [Bot::IRC](https://metacpan.org/pod/Bot%3A%3AIRC)
 - [GitHub](https://github.com/gryphonshafer/Bot-IRC-X-WwwShorten)
-- [CPAN](http://search.cpan.org/dist/Bot-IRC-X-WwwShorten)
 - [MetaCPAN](https://metacpan.org/pod/Bot::IRC::X::WwwShorten)
-- [AnnoCPAN](http://annocpan.org/dist/Bot-IRC-X-WwwShorten)
-- [Travis CI](https://travis-ci.org/gryphonshafer/Bot-IRC-X-WwwShorten)
-- [Coveralls](https://coveralls.io/r/gryphonshafer/Bot-IRC-X-WwwShorten)
+- [GitHub Actions](https://github.com/gryphonshafer/Bot-IRC-X-WwwShorten/actions)
+- [Codecov](https://codecov.io/gh/gryphonshafer/Bot-IRC-X-WwwShorten)
 - [CPANTS](http://cpants.cpanauthors.org/dist/Bot-IRC-X-WwwShorten)
 - [CPAN Testers](http://www.cpantesters.org/distro/T/Bot-IRC-X-WwwShorten.html)
 
@@ -46,7 +44,7 @@ Gryphon Shafer <gryphon@cpan.org>
 
 # COPYRIGHT AND LICENSE
 
-This software is copyright (c) 2018 by Gryphon Shafer.
+This software is copyright (c) 2021 by Gryphon Shafer.
 
 This is free software; you can redistribute it and/or modify it under
 the same terms as the Perl 5 programming language system itself.
