@@ -18,7 +18,7 @@ my %WriteMakefileArgs = (
   "NAME" => "Bot::IRC::X::WwwShorten",
   "PREREQ_PM" => {
     "WWW::Shorten" => 0,
-    "exact" => 0
+    "exact" => "1.14"
   },
   "TEST_REQUIRES" => {
     "Bot::IRC" => 0,
@@ -31,7 +31,7 @@ my %WriteMakefileArgs = (
     "strict" => 0,
     "warnings" => 0
   },
-  "VERSION" => "1.02",
+  "VERSION" => "1.03",
   "test" => {
     "TESTS" => "t/*.t"
   }
@@ -47,7 +47,7 @@ my %FallbackPrereqs = (
   "Test2::V0" => 0,
   "Test::More" => 0,
   "WWW::Shorten" => 0,
-  "exact" => 0,
+  "exact" => "1.14",
   "strict" => 0,
   "warnings" => 0
 );
