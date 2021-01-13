@@ -1,6 +1,8 @@
 Revision history for Bot::IRC::X::WwwShorten
 
 {{$NEXT}}
+
+1.03      2021-01-13 11:09:39-08:00 America/Los_Angeles
         - Override some minimum version reqs in dist.ini
 
 1.02      2021-01-12 08:43:07-08:00 America/Los_Angeles
