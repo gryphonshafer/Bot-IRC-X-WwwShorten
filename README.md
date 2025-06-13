@@ -4,7 +4,7 @@ Bot::IRC::X::WwwShorten - Bot::IRC plugin for automatic URL shortening
 
 # VERSION
 
-version 1.04
+version 1.05
 
 [![test](https://github.com/gryphonshafer/Bot-IRC-X-WwwShorten/workflows/test/badge.svg)](https://github.com/gryphonshafer/Bot-IRC-X-WwwShorten/actions?query=workflow%3Atest)
 [![codecov](https://codecov.io/gh/gryphonshafer/Bot-IRC-X-WwwShorten/graph/badge.svg)](https://codecov.io/gh/gryphonshafer/Bot-IRC-X-WwwShorten)
